@@ -1,3 +1,4 @@
+# Try the flatpak FIRST! This is an alternative method if the flatpak is broken or you really need native packages.
 # guilded-installer
 A shell script to extract and install Guilded from its .deb
 
