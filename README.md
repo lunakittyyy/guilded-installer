@@ -7,3 +7,4 @@ This bash script downloads Guilded's .deb package, extracts its contents, and pu
 ## Tested on 
 
 - Fedora Workstation 36
+- Fedora Workstation 37
